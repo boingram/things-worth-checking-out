@@ -81,6 +81,8 @@
 
 [Impossibility of Distributed Concensus with One-Faulty Process](https://groups.csail.mit.edu/tds/papers/Lynch/jacm85.pdf) by Michael J. Fischer, Nancy A. Lynch, and Michael S. Patterson
 
+[In Search of an Understandable Consensus Algorithm](https://raft.github.io/raft.pdf) by Diego Ongaro and John Ousterhout
+
 [Jepsen Analyses](http://jepsen.io/analyses) by Kyle Kingsbury
 
 [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf) by Abhishek Verma, Luis Pedrosa, Madhukar Korupolu, David Oppenheimer, Eric Tune, and John Wilkes
@@ -129,6 +131,8 @@
 [Pattern: Service Mesh](http://philcalcado.com/2017/08/03/pattern_service_mesh.html) by Phil Calçado
 
 [Queues Don't Fix Overload](https://ferd.ca/queues-don-t-fix-overload.html) by Fred Hebert
+
+[Site Reliability Engineering: How Google Runs Production Systems](https://landing.google.com/sre/book.html) by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
 
 [Tenets of SRE](https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8) by Stephen Thorne
 
