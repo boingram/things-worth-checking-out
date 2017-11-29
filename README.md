@@ -46,7 +46,7 @@
 
 [The Google File System](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) by Sanjay Ghemawat, Howard Gobioff, and Shun-Tak Leung
 
-[The Log-Structured Merge-Tree (LSM-Tree)](http://db.cs.berkeley.edu/cs286/papers/lsm-acta1996.pdf) by Patrick O'Neil1, Edward Cheng, Dieter Gawlick, and Elizabeth O'Neil1
+[The Log-Structured Merge-Tree (LSM-Tree)](http://db.cs.berkeley.edu/cs286/papers/lsm-acta1996.pdf) by Patrick O'Neil, Edward Cheng, Dieter Gawlick, and Elizabeth O'Neil
 
 [Turning the database inside-out with Apache Samza](https://www.confluent.io/blog/turning-the-database-inside-out-with-apache-samza/) by Martin Kleppmann
 
