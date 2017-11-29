@@ -1,4 +1,4 @@
-# Things Possibly Worth Checking Out 
+# Things to Read and Watch and Stuff 
 
 ## Algorithms and Data Structures
 [Data structure: the treap!](https://jvns.ca/blog/2017/09/09/data-structure--the-treap-/) by Julia Evans
